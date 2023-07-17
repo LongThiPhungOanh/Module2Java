@@ -1,4 +1,4 @@
-package ThucHanh.LinkedList;
+package DSA_DanhSach.ThucHanh.LinkedList;
 
 public class MyLinkedList <E>{
     private  Node head;

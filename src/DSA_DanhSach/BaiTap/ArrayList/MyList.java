@@ -1,7 +1,4 @@
-package BaiTap.ArrayList;
-
-import java.util.ArrayList;
-import java.util.List;
+package DSA_DanhSach.BaiTap.ArrayList;
 
 public class MyList<E> {
     private int size = 0;

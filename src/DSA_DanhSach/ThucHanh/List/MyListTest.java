@@ -1,4 +1,5 @@
-package ThucHanh.List;
+package DSA_DanhSach.ThucHanh.List;
+
 public class MyListTest {
     public static void main(String[] args) {
         MyList<Integer> listInteger = new MyList<>();

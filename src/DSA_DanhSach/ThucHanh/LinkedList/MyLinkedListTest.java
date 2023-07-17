@@ -1,5 +1,5 @@
-package ThucHanh.LinkedList;
-import ThucHanh.LinkedList.MyLinkedListTest;
+package DSA_DanhSach.ThucHanh.LinkedList;
+
 public class MyLinkedListTest {
     public static void main(String[] args) {
         System.out.println("-----------Testing-------------");

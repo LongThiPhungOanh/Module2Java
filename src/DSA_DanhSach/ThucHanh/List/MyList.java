@@ -1,4 +1,4 @@
-package ThucHanh.List;
+package DSA_DanhSach.ThucHanh.List;
 import java.util.Arrays;
 public class MyList <E>{
     private int size = 0;
