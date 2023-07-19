@@ -1,4 +1,4 @@
-package ThuatToanTimKiem.BaiTapMaxMin;
+package ThuatToanTimKiem.BaiTap.MaxMin;
 
 import java.util.Scanner;
 
