@@ -1,4 +1,4 @@
-package ThuatToanSapXep.ThucHanh.MinhHoaNoiBot;
+package ThuatToanSapXep.ThucHanh.BubbleSort;
 
 import java.util.Scanner;
 
