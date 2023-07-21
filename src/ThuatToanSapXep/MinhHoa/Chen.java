@@ -1,5 +1,4 @@
 package ThuatToanSapXep.MinhHoa;
-
 public class Chen {
     public static void main(String[] args) {
         int[] array = {2, 3, 2, 5, 6, 1, -2, 3, 14, 12};
