@@ -5,7 +5,7 @@ import java.util.regex.Pattern;
 public class Student {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        String regex = "^[0-9]{5}$";
+        String regex = "[CAP]\\d{4}[GHIK]";
         Pattern pattern = Pattern.compile(regex);
         boolean check;
         do {
